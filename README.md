@@ -1,10 +1,13 @@
-## Welcome to GitHub Pages
+## My Lecture Notes
 
-You can use the [editor on GitHub](https://github.com/jcohen02/test-website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Academic Year 2021/2022
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ - [Programming I](#)
+ - Programming II
 
-### Markdown
+<span style="color: #ff0000">This text is red</span>
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
